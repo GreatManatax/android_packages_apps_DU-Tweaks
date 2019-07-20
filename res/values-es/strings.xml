@@ -342,6 +342,11 @@
     <string name="active_edge_ls_app_select_title">Seleccionar aplicación para squeeze largo</string>
     <string name="active_edge_app_select_summary">Seleccione una aplicación para iniciar con la acción de squeeze</string>
     <string name="active_edge_footer_info">No todas las acciones de squeeze dentro de Active Edge tienen la capacidad de activar la pantalla.\n\nLa pulsación larga en el menú de selección de aplicaciones para mostrar y elegir una actividad específica.</string>
+    <!-- Lockscreen cover art filter -->
+    <string name="lockscreen_cover_filter_title">Filtro de imágenes de album en la pantalla de bloqueo</string>
+    <string name="lockscreen_cover_filter_none">Ninguno</string>
+    <string name="lockscreen_cover_filter_grayscale">Escala de grises</string>
+    <string name="lockscreen_cover_filter_blur">Difuminado</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Opciones de vibración durante la llamada</string>
     <string name="incall_vibrate_connect_title">Vibrar al conectar</string>
