@@ -15,17 +15,21 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- Dirty Tweaks -->
     <string name="dirtytweaks_title">Dirty Tweaks</string>
     <string name="dirtytweaks_summary">Mejora tu experiencia</string>
+
     <!-- The Team -->
     <string name="dialog_team_title">El Equipo</string>
+
     <!-- Bottom navigation -->
     <string name="bottom_nav_system_title">Sistema</string>
     <string name="bottom_nav_lockscreen_title">Pantalla de Bloqueo</string>
     <string name="bottom_nav_statusbar_title">Barra de estado</string>
     <string name="bottom_nav_navigation_title">Navegación</string>
     <string name="bottom_nav_multitasking_title">Multitarea</string>
+
     <!-- Categories -->
     <!-- System -->
     <string name="device_extras_title">Extras del dispositivo</string>
@@ -70,6 +74,7 @@
     <string name="headsup_summary">Configurar opciones para las notificaciones emergentes</string>
     <string name="recents_title">Recientes</string>
     <string name="recents_summary">Configurar opciones de recientes</string>
+
     <!-- Sub categories -->
     <string name="sub_cat_advanced">Ajustes avanzados</string>
     <!-- Lockscreen Media art -->
@@ -337,4 +342,9 @@
     <string name="active_edge_ls_app_select_title">Seleccionar aplicación para squeeze largo</string>
     <string name="active_edge_app_select_summary">Seleccione una aplicación para iniciar con la acción de squeeze</string>
     <string name="active_edge_footer_info">No todas las acciones de squeeze dentro de Active Edge tienen la capacidad de activar la pantalla.\n\nLa pulsación larga en el menú de selección de aplicaciones para mostrar y elegir una actividad específica.</string>
-</resources>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">Opciones de vibración durante la llamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar al conectar</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar en llamada en espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar al colgar</string>
+  </resources>
