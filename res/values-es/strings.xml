@@ -332,6 +332,9 @@
     <string name="lockscreen_clock_selection_du">Analógico (du)</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (negrita)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Sammy con realce</string>
+    <string name="lockscreen_clock_selection_sammy_accent_bold">Sammy con realce (negrita)</string>
+    <string name="lockscreen_clock_selection_text">Texto</string>
     <!-- Active edge -->
     <string name="active_edge_short_actions_title">Acción de apretar corta</string>
     <string name="active_edge_long_actions_title">Acción de apretar larga</string>
